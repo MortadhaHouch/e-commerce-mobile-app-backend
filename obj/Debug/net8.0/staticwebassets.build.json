@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8G7eSiN1zcNH3sjzlrPcikqpusCYEGPkJQEjf+jS7p0=",
+  "Source": "e-commerce-web-app-server",
+  "BasePath": "_content/e-commerce-web-app-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
